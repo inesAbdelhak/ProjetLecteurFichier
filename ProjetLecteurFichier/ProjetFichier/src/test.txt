@@ -1,0 +1,2 @@
+Bonjour voici un fichier texte
+permettant de tester mon programme
